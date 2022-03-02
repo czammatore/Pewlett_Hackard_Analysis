@@ -2,9 +2,12 @@
 
 ## Analysis Overview and Findings
 
-In our analysis, we looked at two distinct groups of employees. The first was those born between 1952 and 1955, who are approaching the traditional retirement age. The second group was those born in 1965 that could be arguably looked at as their successors. We gathered this information on these two groups was to ascertain if there were enough senior employees in the retirement age group to mentor those who could be their successors. 
+In our analysis, we looked at two distinct groups of employees. The first was those born between 1952 and 1955, who are approaching the traditional retirement age. The second group was those born in 1965 that could be arguably looked at as their successors. We gathered this information on these two groups was to ascertain if there were enough senior employees in the retirement age group to mentor those who could be their successors. \
 
-With 90398 employees in the possible retirement group and 1549 employees in the possible successor group, the answer to our first question is a resounding yes – there will be plenty of employees to serve as mentors. 
+![retiring_staff](https://user-images.githubusercontent.com/95390073/156431588-f3ce5e05-6fe8-4a29-a0dc-6b9baa4a0201.png)
+
+
+With 90398 employees in the possible retirement group and 1549 employees in the possible successor group, the answer to our first question is a resounding yes – there will be plenty of employees to serve as mentors. As the table below shows, 57668 are senior staff and should be well equipped to mentor.
 
 ## Considerations and Possible Implications
 
