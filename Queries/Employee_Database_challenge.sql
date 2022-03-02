@@ -22,7 +22,15 @@ FROM retirement_titles
 WHERE (rt.to_date = '9999-01-01')
 ORDER BY emp_no, to_date DESC;
 
---Mentorship Eligibility Table
+--Count of Employee Titles
+SELECT COUNT(ut.emp_no), ut.title
+INTO retiring_titles
+FROM unique_titles as ut
+GROUP BY title
+ORDER BY COUNT(title) DESC;
+
+SELECT * FROM retiring_titles;
+
 --Mentorship Eligibility table
 SELECT DISTINCT ON (e.emp_no)e.emp_no,
 		e.first_name,
